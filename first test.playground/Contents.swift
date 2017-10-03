@@ -27,7 +27,7 @@ let eerst = "Test is \(test) en tester is \(test+tester)"
 
 let listOfNumbres = [14,17,75,32,99]
 
-for number in listOfNumbres{
+for number in listOfNumbres{x
 	if number > 20{
 		print("klein\n")
 	}else{
